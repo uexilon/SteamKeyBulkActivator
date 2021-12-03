@@ -34,7 +34,7 @@ namespace SteamKeyBulkActivator
                 activateYPosition = int.Parse(Console.ReadLine());
             }
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("Do not move your mouse during the process (when autoclicking on windows");
+            Console.WriteLine("Do not move your mouse during the process (when autoclicking on windows)");
             Console.ForegroundColor = ConsoleColor.White;
             Thread.Sleep(5000);
             string[] keys = keysString.Split(seperator); 
