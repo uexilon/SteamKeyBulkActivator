@@ -3,3 +3,5 @@ A simple console application to activate steam keys in bulk. Fully automated onl
 Login to steam in the webbrowser and keep the browser open.
 
 Steam caps out at around 50 Keys. If you got more than 50 you'll need to wait for an hour or two.
+
+Needs .Net5 to be installed.
